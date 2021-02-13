@@ -1,0 +1,66 @@
+@import "fonts.css";
+@import "light-theme.css";
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: brygada;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.title-bar {
+  height: 115px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+
+.header {
+  font-family: quicksand;
+  font-weight: bold;
+  margin: 0;
+  font-size: 2.3em;
+  text-align: center;
+}
+
+.inner-header {
+  font-family: quicksand;
+  font-weight: normal;
+  margin: 0;
+  margin-top: 0.25em;
+  margin-left: 0.5em;
+  font-size: 1.6em;
+}
+
+.content-container {
+  font-family: quicksand;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.font-primary {
+  color: var(--ta-font-primary);
+}
+
+.font-inverse {
+  color: var(--ta-font-inverse);
+}
+
+.font-accent {
+  color: var(--ta-font-accent);
+}
+
+.font-smaller {
+  font-size: 0.75em;
+  font-weight: normal;
+}
+
+.font-emphasized {
+  font-weight: NORMAL;
+}
