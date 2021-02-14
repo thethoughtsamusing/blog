@@ -5,6 +5,7 @@
   "main": "bs-config.js",
   "dependencies": {},
   "devDependencies": {
+    "@babel/core": "^7.12.16",
     "@babel/plugin-transform-react-jsx": "^7.12.16",
     "@babel/preset-env": "^7.12.16"
   },
