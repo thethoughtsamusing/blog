@@ -1,11 +1,14 @@
+@import "fontawesome/css/all.min.css";
+@import "normalize.css";
+@import "skeleton.css";
 @import "fonts.css";
-@import "light-theme.css";
 
 html,
 body {
   margin: 0;
   padding: 0;
-  font-family: brygada;
+  font-family: quicksand;
+  background-color: var(--ta-body);
 }
 
 * {
@@ -15,14 +18,45 @@ body {
 .title-bar {
   height: 115px;
   display: flex;
+  position: relative;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #000;
 }
 
+.title-nav {
+  display: flex;
+  height: 100%;
+  width: 500px;
+  position: absolute;
+  left: 20px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.nav-dot {
+  display: flex;
+  height: 36px;
+  width: 36px;
+  border-radius: 50%;
+  background-color: var(--ta-font-inverse);
+  color: var(--ta-font-primary);
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+.nav-dot:hover {
+  background-color: var(--ta-font-accent);
+}
+.fa-user-cog {
+  margin-left: 2px;
+}
+
 .header {
-  font-family: quicksand;
   font-weight: bold;
   margin: 0;
   font-size: 2.3em;
@@ -30,7 +64,6 @@ body {
 }
 
 .inner-header {
-  font-family: quicksand;
   font-weight: normal;
   margin: 0;
   margin-top: 0.25em;
@@ -39,9 +72,9 @@ body {
 }
 
 .content-container {
-  font-family: quicksand;
   margin-top: 30px;
   text-align: center;
+  color: var(--ta-font-primary);
 }
 
 .font-primary {

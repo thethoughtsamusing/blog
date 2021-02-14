@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="56.986477mm"
+   height="56.986477mm"
+   viewBox="0 0 56.986477 56.986477"
+   version="1.1"
+   id="svg1059"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="thoughts-a-musing.svg"
+   inkscape:export-filename="C:\_Code\the-thoughts-a-musing\thoughts-a-musing.png"
+   inkscape:export-xdpi="115.88715"
+   inkscape:export-ydpi="115.88715">
+  <defs
+     id="defs1053" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.24"
+     inkscape:cx="154.50455"
+     inkscape:cy="32.963015"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1056">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40.292269,-68.035723)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.151355;stroke-linecap:round"
+       id="path1061"
+       cx="68.785507"
+       cy="96.528961"
+       r="28.493238" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.9977px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:-2.0494px;fill:#ccffcc;fill-opacity:1;stroke:none;stroke-width:0.341566;stroke-opacity:1"
+       x="69.056435"
+       y="93.175728"
+       id="text1630"><tspan
+         sodipodi:role="line"
+         id="tspan1628"
+         x="69.056435"
+         y="93.175728"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.9977px;font-family:Quicksand;-inkscape-font-specification:Quicksand;fill:#ccffcc;fill-opacity:1;stroke:none;stroke-width:0.341566;stroke-opacity:1">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.3333px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand Medium';letter-spacing:0px;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="44.711452"
+       y="112.74048"
+       id="text1640"><tspan
+         sodipodi:role="line"
+         id="tspan1638"
+         x="44.711452"
+         y="112.74048"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.3333px;font-family:Quicksand;-inkscape-font-specification:'Quicksand Medium';fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+           id="tspan1644"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.3333px;font-family:Quicksand;-inkscape-font-specification:'Quicksand Medium';stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">T</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.1004px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;stroke-width:0.652511"
+       x="67.595284"
+       y="111.00422"
+       id="text1656"><tspan
+         sodipodi:role="line"
+         id="tspan1654"
+         x="67.595284"
+         y="111.00422"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';fill:#ffffff;stroke-width:0.652511">m</tspan></text>
+  </g>
+</svg>
