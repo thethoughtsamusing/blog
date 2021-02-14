@@ -2,21 +2,24 @@
   "name": "the-thoughts-a-musing",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bs-config.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.12.16",
+    "@babel/preset-env": "^7.12.16"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thethoughtsamusing/my-thoughts.git"
+    "url": "git+https://github.com/thethoughtsamusing/blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thethoughtsamusing/my-thoughts/issues"
+    "url": "https://github.com/thethoughtsamusing/blog/issues"
   },
-  "homepage": "https://github.com/thethoughtsamusing/my-thoughts#readme"
+  "homepage": "https://github.com/thethoughtsamusing/blog#readme"
 }
