@@ -1,7 +1,7 @@
 var root = document.querySelector(".app-body");
 
 function MyComponent() {
-  var templateVar = 105;
+  var templateVar = 115;
 
   return {
     view: () => (
